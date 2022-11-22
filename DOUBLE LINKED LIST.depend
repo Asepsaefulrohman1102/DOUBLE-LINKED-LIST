@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669042098 source:e:\c++\double linked list\double.cpp
+	"double.hpp"
+
+1669041883 e:\c++\double linked list\double.hpp
+	<iostream>
+
+1669041921 source:e:\c++\double linked list\main.cpp
+	"double.hpp"
+
